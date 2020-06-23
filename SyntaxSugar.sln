@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyntaxSugar", "SyntaxSugar\SyntaxSugar.csproj", "{2C0A8950-A633-4F12-933C-396B660B5B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0A8950-A633-4F12-933C-396B660B5B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0A8950-A633-4F12-933C-396B660B5B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0A8950-A633-4F12-933C-396B660B5B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0A8950-A633-4F12-933C-396B660B5B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1106D8CD-E0DF-4F23-821E-6237EF44C8C2}
+	EndGlobalSection
+EndGlobal

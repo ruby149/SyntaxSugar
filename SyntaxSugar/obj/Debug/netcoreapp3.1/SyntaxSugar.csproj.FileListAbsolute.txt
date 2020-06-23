@@ -1,0 +1,13 @@
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.exe
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.deps.json
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.runtimeconfig.json
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.runtimeconfig.dev.json
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.dll
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\bin\Debug\netcoreapp3.1\SyntaxSugar.pdb
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.csprojAssemblyReference.cache
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.AssemblyInfoInputs.cache
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.AssemblyInfo.cs
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.csproj.CoreCompileInputs.cache
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.dll
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.pdb
+C:\Users\rubis\repos\SyntaxSugar\SyntaxSugar\obj\Debug\netcoreapp3.1\SyntaxSugar.genruntimeconfig.cache
